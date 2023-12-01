@@ -1,12 +1,14 @@
 # CS4650_CapStone_Project
 
+CS4650.02 Fall 2023
+
 Group Member: Jihun Choi
 
 Topic: Regression with a Crab Age Dataset
 
 Link to Competition: https://www.kaggle.com/competitions/playground-series-s3e16
 
-capstone folder has 5 files total:
+"capstone" folder has 5 files total:
 
 1) Jupyter note book file
 
